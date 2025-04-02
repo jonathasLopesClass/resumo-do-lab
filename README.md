@@ -1,2 +1,2 @@
 # resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Até o momento, neste curso de preparação para a AZ-900, tive a oportunidade de entender quais são os tipos de nuvem e o que elas representam no âmbito profissional. Aprendi, também, a importância de saber diferenciar os gastos de capital e operacional, e saber quando devo usar um e quando eu devo usar o outro. Além disso, criei pela primeira vez minha conta na Azure e tive contato com o dashboard dela.
